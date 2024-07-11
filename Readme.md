@@ -1,13 +1,9 @@
 
 # Recent Posts WP Plugin
 
-# Использование
+## Использование
 
-
-
-## Usage
-
-Use shortcode on any page:
+Вставьте shortcode на любой странице для вывода постов:
 
 ```bash
   [recent-posts]
